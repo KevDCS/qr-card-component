@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Links
@@ -27,8 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -45,7 +41,5 @@ body {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KevDCS)
+- Frontend Mentor - [@KevDCS](https://www.frontendmentor.io/profile/KevDCS)
 - Twitter - [@codosho](https://www.twitter.com/codosho)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
